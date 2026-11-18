@@ -56,3 +56,9 @@ nav a {
     text-decoration: none;
     margin: 10px;
 }
+footer {
+    background-color: navy;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
